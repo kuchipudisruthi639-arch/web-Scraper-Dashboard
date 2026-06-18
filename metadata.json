@@ -1,0 +1,6 @@
+{
+  "name": "SQLite Scraper Dashboard",
+  "description": "A full-stack ETL web scraper pipeline automation and interactive SQL database dashboard tracking jobs, prices, and news trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
